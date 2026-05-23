@@ -1,7 +1,7 @@
 <p align="center"><img width="1000" height="300" src="https://media.discordapp.net/attachments/1000898869397311581/1507804012853067888/Untitled281_20260523135359.png?ex=6a133b6a&is=6a11e9ea&hm=758a667232cac5e6b118750d43db9c912071e262c3a55742a97ac04ec612a628&=&format=webp&quality=lossless&width=1278&height=434" />
 </a>
 <p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=andrekriegmann&label=rotters&color=d4c0b7&style=plastic"> </dir> </p>
-  <p align="center"><img width="600" height="400" src="https://64.media.tumblr.com/04025bc8d622446f5bd5d3c353f2aa2d/18b5adda1dc2247c-3c/s640x960/8122df76ca5e4165ff253f199546c4f79c0501ae.gifv" />
+  <p align="center"><img width="500" height="300" src="https://media.discordapp.net/attachments/1000898869397311581/1507809543760117861/IMG_5270.gif?ex=6a134090&is=6a11ef10&hm=5f83094de4c16413cf9c4481eb3cc272d48a28c3b59504ed390219915959e32c&=&width=550&height=222" />
 <p align="center"> wip    
   </p> ‎ ‎ 
   <p align="center">
