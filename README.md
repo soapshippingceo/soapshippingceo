@@ -1,4 +1,3 @@
-<p align="center"><img width="1000" height="200" src="https://media.discordapp.net/attachments/1000898869397311581/1507802477624295544/Untitled280_20260523134839.png?ex=6a1339fc&is=6a11e87c&hm=ba4775bbf1d2d9bb96ad92a655b5a589dbefb1ac458fef541a2b07ffb32432fe&=&format=webp&quality=lossless" />
 </a>
 <p align="center"><p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=andrekriegmann&label=rotters&color=d4c0b7&style=plastic"> </dir> </p>
   <p align="center"><img width="500" height="300" src="https://media.discordapp.net/attachments/1000898869397311581/1507809543760117861/IMG_5270.gif?ex=6a134090&is=6a11ef10&hm=5f83094de4c16413cf9c4481eb3cc272d48a28c3b59504ed390219915959e32c&=&width=550&height=222" />
