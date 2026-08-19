@@ -5,7 +5,7 @@
 <p align="center" width="100%">
   <p align="center"><image src="https://files.catbox.moe/k853tl.jpeg" width="400" height="400"
 </p>
-                      <p align="center"><sub> <a href="https://github.com/pt-hall-of-media">Pony Towns Gerard Way</a></sub>
+                      <p align="center"><sub> <a href="https://github.com/pt-hall-of-media">Pony Towns Gerard Way and Waycestie</a></sub>
 </p>
   </a>
     </p>
