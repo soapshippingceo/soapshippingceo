@@ -12,5 +12,7 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w2sivkvph6nrlpaordtpdybgjm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+    <img src="https://steam-current-game.vercel.app/api/?steamids=<76561198675620095>" width="128" alt="Steam Status">
+
   </a>
 </p>
