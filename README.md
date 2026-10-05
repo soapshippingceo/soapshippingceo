@@ -3,7 +3,10 @@
 <image src="https://64.media.tumblr.com/75df21f8ddf93d368874d052cd8dcd58/11f6fe4cd5a56910-b2/s640x960/3630be60e0291409490ea891079e825792405862.gifv"
 </p>
 <p align="center" width="100%">
-  <p align="center"><image src="https://files.catbox.moe/k853tl.jpeg" width="400" height="400"
+  <div align="center">
+    rev 🫧 minor 👀<br>
+    use name or ‘they’ is fine (˃̶᷄‧̫ ˂̶᷅๑ )  ndni <br>
+    07 . 31 . 26 ᥫ᭡
 </p>
                       <p align="center"><sub> <a href="https://github.com/pt-hall-of-media">Pony Towns Gerard Way</a></sub>
 </p>
