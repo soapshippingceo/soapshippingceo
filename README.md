@@ -6,7 +6,7 @@
   <div align="center">
     rev 🫧 minor 👀<br>
     use name or ‘they’ is fine (˃̶᷄‧̫ ˂̶᷅๑ )  ndni <br>
-    07 . 31 . 26 ᥫ᭡
+    vriska  serket  irl 
 </p>
                       <p align="center"><sub> <a href="https://github.com/pt-hall-of-media">Pony Towns Gerard Way</a></sub>
 </p>
